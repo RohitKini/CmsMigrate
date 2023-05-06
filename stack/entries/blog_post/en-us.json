@@ -1,4 +1,626 @@
 {
+  "blt2c884060d0edad57": {
+    "title": "Fiona: The Heroic Fairy Warrior Who Saved Her Kingdom from the Shadow Dragon",
+    "url": "/blog/-fiona-the-heroic-fairy-warrior-who-saved-her-kingdom-from-the-shadow-dragon-",
+    "author": [{ "uid": "blt35705125566e8fe1", "_content_type_uid": "author" }],
+    "date": "2023-05-05T09:50:52.000Z",
+    "featured_image": {
+      "uid": "bltc5ff9a1efdc6033a",
+      "created_at": "2023-04-05T08:34:52.199Z",
+      "updated_at": "2023-04-05T08:34:52.199Z",
+      "content_type": "image/svg+xml",
+      "file_size": "53205",
+      "tags": [],
+      "filename": "headless-cms-solution.svg",
+      "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltc5ff9a1efdc6033a/642d32ac48f0df43ce11fc78/headless-cms-solution.svg",
+      "ACL": [],
+      "is_dir": false,
+      "parent_uid": "blt01f25dda2c9e232b",
+      "_version": 1,
+      "title": "Headless CMS Solution",
+      "description": ""
+    },
+    "body": {
+      "type": "doc",
+      "attrs": {},
+      "uid": "82e6ac2428d241e8903e8d957cf0dfca",
+      "children": [
+        {
+          "uid": "621c22abe2f14b5b9ad641bf6c12e62c",
+          "type": "reference",
+          "attrs": {
+            "display-type": "display",
+            "asset-uid": "bltee9a559a74caae04",
+            "content-type-uid": "sys_assets",
+            "asset-link": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltee9a559a74caae04/6453790686f0ea111ed08963/Toasty_Original_file.webp",
+            "asset-name": "Toasty",
+            "asset-type": "image/webp",
+            "type": "asset",
+            "class-name": "embedded-asset",
+            "inline": false,
+            "width": "373",
+            "style": {
+              "max-width": "373px",
+              "width": "373px",
+              "max-height": "373px",
+              "height": "373px"
+            },
+            "redactor-attributes": { "height": "373" },
+            "max-width": "373",
+            "max-height": "373",
+            "height": "373"
+          },
+          "children": [{ "text": "" }]
+        },
+        {
+          "uid": "622dd80dd3834fd1a81637c6e07dc8c4",
+          "type": "p",
+          "attrs": {},
+          "children": [
+            {
+              "text": "Once upon a time, in a magical land far, far away, there was a kingdom of fairies. This kingdom was ruled by a wise queen named Eirene, who was loved and respected by all her subjects."
+            }
+          ]
+        },
+        {
+          "uid": "a60fe518d01b4456a4ecdd8f8b94b814",
+          "type": "p",
+          "attrs": {},
+          "children": [
+            {
+              "text": "One day, a dark force descended upon the fairy kingdom. It was a terrible monster, known as the Shadow Dragon, and it had come to destroy everything in its path. The queen knew that she needed a hero to save her kingdom, so she summoned Fiona, a brave and skilled fairy warrior."
+            }
+          ]
+        },
+        {
+          "uid": "b3d77f96ceb6415ab4895d44f84bbff5",
+          "type": "p",
+          "attrs": {},
+          "children": [
+            {
+              "text": "Fiona was not like other fairies. She was small in stature, but fierce in battle. Her wings shimmered with the colors of the rainbow, and her sword was made of the finest crystal. She was a hero unlike any other, and the queen knew that she was the only one who could defeat the Shadow Dragon."
+            }
+          ]
+        },
+        {
+          "uid": "cea80857e5644a3fb3f2e44ede169066",
+          "type": "p",
+          "attrs": {},
+          "children": [
+            {
+              "text": "Fiona accepted the queen's quest, and set out on a perilous journey through the enchanted forest. She faced many dangers along the way, from treacherous rivers to fierce beasts, but she never wavered in her determination."
+            }
+          ]
+        },
+        {
+          "uid": "6e8bcb1c0c5743a2b5155975a28cbdd9",
+          "type": "p",
+          "attrs": {},
+          "children": [
+            {
+              "text": "Finally, Fiona reached the Shadow Dragon's lair. The monster was huge and terrifying, with razor-sharp claws and a breath of fire. Fiona knew that she had to act quickly, or her kingdom would be destroyed."
+            }
+          ]
+        },
+        {
+          "uid": "b953626d3c26461aaff0c4098dcb92f6",
+          "type": "p",
+          "attrs": {},
+          "children": [
+            {
+              "text": "With a mighty battle cry, Fiona charged at the Shadow Dragon. She dodged its claws and parried its blows, striking back with her crystal sword. The battle was fierce and intense, but Fiona refused to give up. She fought with all her might, determined to protect her people and save her kingdom."
+            }
+          ]
+        },
+        {
+          "uid": "c117e66a9d824a1482563a70316cc916",
+          "type": "p",
+          "attrs": {},
+          "children": [
+            {
+              "text": "In the end, Fiona emerged victorious. She had defeated the Shadow Dragon and saved her kingdom from destruction. The queen was overjoyed and honored Fiona with the highest honor in the land, the Medal of Heroism."
+            }
+          ]
+        },
+        {
+          "uid": "4d6555f4a0e4425b82391b130d0f1eeb",
+          "type": "p",
+          "attrs": {},
+          "children": [
+            {
+              "text": "Fiona became a legend in the fairy kingdom, a hero to be remembered for generations to come. She had shown that even the smallest and seemingly weakest among us could be the bravest and most powerful of all. Her courage and determination had saved her people and brought hope to all who faced adversity."
+            }
+          ]
+        },
+        {
+          "uid": "9a5db3cf2c194a39905208a4eb8910bd",
+          "type": "p",
+          "attrs": {},
+          "children": [
+            {
+              "text": "And so, the fairy kingdom continued to flourish, protected by heroes like Fiona who were willing to fight for what was right, no matter the cost."
+            }
+          ]
+        }
+      ],
+      "_version": 5
+    },
+    "related_post": [],
+    "star_rating": {},
+    "is_archived": false,
+    "seo": {
+      "meta_title": "",
+      "meta_description": "",
+      "keywords": "",
+      "enable_search_indexing": true
+    },
+    "tags": [],
+    "locale": "en-us",
+    "uid": "blt2c884060d0edad57",
+    "ACL": {},
+    "_version": 5,
+    "_in_progress": false
+  },
+  "blt6112aca2f705ac70": {
+    "title": "MACH Speeder",
+    "url": "/blog/mach-speeder",
+    "author": [{ "uid": "blt35705125566e8fe1", "_content_type_uid": "author" }],
+    "date": "2023-05-05T09:51:50.000Z",
+    "featured_image": {
+      "uid": "bltbbcaee87d83a455a",
+      "created_at": "2023-04-05T08:34:47.486Z",
+      "updated_at": "2023-04-05T08:34:47.486Z",
+      "content_type": "image/svg+xml",
+      "file_size": "32524",
+      "tags": [],
+      "filename": "data-mining.svg",
+      "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltbbcaee87d83a455a/642d32a7c60fa012503cc147/data-mining.svg",
+      "ACL": [],
+      "is_dir": false,
+      "parent_uid": "blt01f25dda2c9e232b",
+      "_version": 1,
+      "title": "Data Mining",
+      "description": ""
+    },
+    "body": {
+      "type": "doc",
+      "attrs": {},
+      "uid": "8e10320e7e314d709d816c72ed4eee75",
+      "children": [
+        {
+          "uid": "69b6567dd37740359ca8e178ebbff07d",
+          "type": "p",
+          "attrs": {},
+          "children": [{ "text": "" }]
+        },
+        {
+          "uid": "ef15ce8d3fc8433892c803d5b41139ba",
+          "type": "p",
+          "attrs": {},
+          "children": [
+            {
+              "text": "In the world of superheroes, speed is a valuable asset. MACH Speeder is a superhero with the ability to move at incredible speeds. MACH Speeder is a character I developed for Contentstack, and I'm excited to share more about this super-fast hero."
+            }
+          ]
+        },
+        {
+          "uid": "7be97019cb254a1ca8a25b8193590afc",
+          "type": "p",
+          "attrs": {},
+          "children": [
+            {
+              "text": "MACH Speeder's real name is Mark Chambers. He was a former Olympic sprinter who discovered that he had the ability to move at incredible speeds after being exposed to a strange energy source during a race. Now, he uses his powers to fight crime and protect the innocent."
+            }
+          ]
+        },
+        {
+          "uid": "ad0643a96b5d46bb9cc048fd0d1f5847",
+          "type": "p",
+          "attrs": {},
+          "children": [
+            {
+              "text": "MACH Speeder's powers allow him to move at incredible speeds, making him one of the fastest superheroes in existence. He can run at speeds of up to Mach 5, which is over 3,800 miles per hour. This means that he can move across entire cities in seconds, making him incredibly difficult to catch."
+            }
+          ]
+        },
+        {
+          "uid": "22d84768978e4878bc729f3931011c4c",
+          "type": "p",
+          "attrs": {},
+          "children": [
+            {
+              "text": "In addition to his incredible speed, MACH Speeder also possesses enhanced agility and reflexes. He is able to dodge attacks and move through tight spaces with ease, making him a formidable opponent in combat. His speed also allows him to generate powerful shockwaves when he punches or kicks, making his attacks incredibly powerful."
+            }
+          ]
+        },
+        {
+          "uid": "780f633e7573423bbc67e6e6675f20e7",
+          "type": "p",
+          "attrs": {},
+          "children": [
+            {
+              "text": "Despite his incredible powers, MACH Speeder is still human, and he faces many of the same challenges that other superheroes do. He struggles with balancing his personal life with his superhero duties and often has to deal with villains who are just as fast as he is. However, he is determined to use his powers for good and to protect those who cannot protect themselves."
+            }
+          ]
+        },
+        {
+          "uid": "b931b52be7134c0999f4ae33b406fc94",
+          "type": "p",
+          "attrs": {},
+          "children": [
+            {
+              "text": "MACH Speeder is a unique and exciting addition to the world of superheroes. His incredible speed and agility make him a formidable hero, and his determination to do what's right makes him a role model for all of us. I'm excited to see where his adventures take him next."
+            }
+          ]
+        }
+      ],
+      "_version": 8
+    },
+    "related_post": [],
+    "star_rating": {},
+    "is_archived": false,
+    "seo": {
+      "meta_title": "",
+      "meta_description": "",
+      "keywords": "",
+      "enable_search_indexing": true
+    },
+    "tags": [],
+    "locale": "en-us",
+    "uid": "blt6112aca2f705ac70",
+    "ACL": {},
+    "_version": 8,
+    "_in_progress": false
+  },
+  "blt03b38904b11f1118": {
+    "title": "Virus Vindicator: Defender of the Digital World",
+    "url": "/blog/virus-vindicator-defender-of-the-digital-world-",
+    "author": [{ "uid": "blt35705125566e8fe1", "_content_type_uid": "author" }],
+    "date": "2023-05-05T09:54:22.000Z",
+    "featured_image": {
+      "uid": "blt4308070674c22af7",
+      "created_at": "2023-04-05T08:35:02.875Z",
+      "updated_at": "2023-04-05T08:35:02.875Z",
+      "content_type": "image/png",
+      "file_size": "3938",
+      "tags": [],
+      "filename": "cslogo.png",
+      "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt4308070674c22af7/642d32b6f7167afe67571309/cslogo.png",
+      "ACL": [],
+      "is_dir": false,
+      "parent_uid": "blt0dcb1c872a1e8c3e",
+      "_version": 1,
+      "title": "cslogo.png"
+    },
+    "body": {
+      "type": "doc",
+      "attrs": {},
+      "uid": "2c9f083c0caf4ae7a6915a8a4c1a17e0",
+      "children": [
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "e0150c860c56463990be4d883079d0fd",
+          "children": [
+            {
+              "text": "Deep in the heart of the city, there existed a powerful superhero known as the Virus Vindicator. She was a defender of the digital world, and her mission was to protect innocent people from the dangerous viruses that lurked in cyberspace."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "a14b44ac3b774bd7920df3706824c4f2",
+          "children": [{ "text": "" }]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "6d8d2cdc15e945ef9b9188e1ea22d9f0",
+          "children": [
+            {
+              "text": "The Virus Vindicator had been born with a unique set of skills that made her particularly suited to her superhero work. She had an innate understanding of how viruses worked, and she could sense their presence before they even began to wreak havoc on computer systems."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "0ec7a1669a23403590b23262fc9fbf23",
+          "children": [{ "text": "" }]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "f6ac13d014cb4904a268a5de997ab69b",
+          "children": [
+            {
+              "text": "The Virus Vindicator had not always been a superhero, however. In fact, she had started out as a regular computer programmer, working for a large tech company in the city. It was there that she had first encountered the dangers of viruses and other malware. She had seen firsthand the damage that they could cause - from destroying important files to stealing sensitive information."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "9b41ed61aab84e1fa79d31246ea49e3d",
+          "children": [{ "text": "" }]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "f0a9279ff07941c799b967d6567aa6f7",
+          "children": [
+            {
+              "text": "Determined to do something about it, the Virus Vindicator had spent years studying viruses and malware, learning everything she could about how they worked and how to stop them. She had become something of an expert in the field, and her skills had not gone unnoticed."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "9236004e6d18408ea68bcab7de949ce6",
+          "children": [{ "text": "" }]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "3cbe2e9e481d44d7a8db4502ce7dc2fc",
+          "children": [
+            {
+              "text": "One day, while working late in her office, the Virus Vindicator received a distress signal from a nearby government agency. A dangerous virus had infected their computer systems, and they were in desperate need of her help. Without hesitation, the Virus Vindicator sprang into action."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "57c91a6978254f9a9d1a8597ebcdb488",
+          "children": [{ "text": "" }]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "33eacb6f60e24df8b236b13e7ad2e45e",
+          "children": [
+            {
+              "text": "She raced to the government agency and quickly assessed the situation. The virus was unlike anything she had ever seen before - it was spreading rapidly and had already caused significant damage to the system. But the Virus Vindicator was undaunted. She knew that she had the skills and the knowledge to stop the virus in its tracks."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "f912c56c277946d6af9f218e55622738",
+          "children": [{ "text": "" }]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "98b376717b80478e8cd5944977a266a2",
+          "children": [
+            {
+              "text": "For hours, the Virus Vindicator worked tirelessly, using her expertise to isolate the virus and prevent it from spreading any further. She battled the virus like a warrior, using every tool at her disposal to destroy it once and for all."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "fe1a41c43d8f4a04a5d3c57f40e12a4c",
+          "children": [{ "text": "" }]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "0a651054c456493cb929fed617cf8ed9",
+          "children": [
+            {
+              "text": "Finally, after what felt like an eternity, the Virus Vindicator emerged victorious. The virus had been vanquished, and the government agency's computer systems were safe once more. The people who worked there were grateful, and they thanked the Virus Vindicator for her heroic efforts."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "115d148f8bec4d488e4738f33dd9e35c",
+          "children": [{ "text": "" }]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "a13fc7b4b7494fe0a0a8b672a7b51166",
+          "children": [
+            {
+              "text": "From that day forward, the Virus Vindicator became a superhero, dedicating her life to fighting against the digital threats that threatened innocent people. She became a symbol of hope and protection in the world of technology, and her superhero alter-ego inspired others to use their skills for good."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "00c2ebc8d7544f11b571a909f2583175",
+          "children": [{ "text": "" }]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "1d7109ba1505485e913d9c743a409a31",
+          "children": [
+            {
+              "text": "And so the Virus Vindicator continued to fight against viruses and malware, always vigilant, always ready to defend the innocent from the dangers of the digital world."
+            }
+          ]
+        }
+      ],
+      "_version": 1
+    },
+    "related_post": [],
+    "star_rating": {},
+    "is_archived": false,
+    "seo": {
+      "meta_title": "",
+      "meta_description": "",
+      "keywords": "",
+      "enable_search_indexing": true
+    },
+    "tags": [],
+    "locale": "en-us",
+    "uid": "blt03b38904b11f1118",
+    "ACL": {},
+    "_version": 1,
+    "_in_progress": false
+  },
+  "blt70f1d1a0d5d6edbc": {
+    "title": "Unleashing-the-Power-of-Composable-Technology:-The-Story-of-Ruprani,-the-Goddess-Code-Surger",
+    "url": "/blog/The-Story-of-Ruprani",
+    "author": [{ "uid": "blt929a2b217c61840c", "_content_type_uid": "author" }],
+    "date": "2023-05-05T09:43:58.000Z",
+    "featured_image": {
+      "uid": "bltc5ff9a1efdc6033a",
+      "created_at": "2023-04-05T08:34:52.199Z",
+      "updated_at": "2023-04-05T08:34:52.199Z",
+      "content_type": "image/svg+xml",
+      "file_size": "53205",
+      "tags": [],
+      "filename": "headless-cms-solution.svg",
+      "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltc5ff9a1efdc6033a/642d32ac48f0df43ce11fc78/headless-cms-solution.svg",
+      "ACL": [],
+      "is_dir": false,
+      "parent_uid": "blt01f25dda2c9e232b",
+      "_version": 1,
+      "title": "Headless CMS Solution",
+      "description": ""
+    },
+    "body": {
+      "type": "doc",
+      "attrs": {},
+      "uid": "2a5547f7e20f4d0d9ea301e673813e4a",
+      "children": [
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "aed37d9d5c794ba6baa3d9848556bfde",
+          "children": [
+            {
+              "text": "Deep in the heart of the digital universe, there existed a powerful superhero known as Ruprani - the Goddess Code Surgeon. She was a force to be reckoned with, possessing a unique set of skills that allowed her to bend and manipulate computer code to her will. "
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "7726a897f74d4b27af97928b10286860",
+          "children": [{ "text": "" }]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "c4487ca3f41c4d52b24bcc0d887b4ede",
+          "children": [
+            {
+              "text": "Ruprani had always been fascinated by technology, ever since she was a young girl growing up in a small village in India. She had a natural aptitude for understanding how machines worked, and she quickly taught herself how to code. As she got older, her skills only grew stronger, and soon she found herself working for a large tech company in Silicon Valley. "
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "078707b5a7e740d6926d638e28cb7fd2",
+          "children": [{ "text": "" }]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "089c71c362c349138e67a69276478da3",
+          "children": [
+            {
+              "text": "But Ruprani was not content to simply write code and fix bugs all day. She knew that there was a greater purpose to her work, and she was determined to use her skills to make the world a better place. And so she created her superhero persona - the Goddess Code Surgeon. "
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "5516a0e7e78344a69e8f304a90497f9c",
+          "children": [{ "text": "" }]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "59bad9c21599427d9bc73ef4bc81b815",
+          "children": [
+            {
+              "text": "As the Goddess Code Surgeon, Ruprani was a powerful force for good in the world of technology. She traveled the globe, fighting hackers and cybercriminals who sought to do harm to innocent people. She was particularly skilled at finding vulnerabilities in computer systems and patching them before they could be exploited by bad actors. "
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "afbdab08a535440db92d7f2b6c259857",
+          "children": [{ "text": "" }]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "6f1498e1201047e592e05e52c2cb602c",
+          "children": [
+            {
+              "text": "But Ruprani's true strength lay in her ability to compose code. She could take disparate pieces of code and stitch them together like a skilled tailor, creating new systems and technologies that were stronger and more efficient than anything that had come before. She was a true master of composable technology. "
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "e1b609d2a8314c048d1244026a51a7e1",
+          "children": [{ "text": "" }]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "a3fe92e230974da18a2ec30cd4c047f2",
+          "children": [
+            {
+              "text": "Over time, Ruprani's fame grew. She became a beloved figure in the tech world, and her superhero alter-ego inspired a new generation of coders to use their skills for good. Ruprani knew that there would always be new threats and challenges to face in the world of technology, but as long as she had her skills and her determination, she would always be ready to fight. "
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "b38bbb87b86e4a0eb84a17594867c8d0",
+          "children": [{ "text": "" }]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "bda859a8a0614e3ca78dcd7a5fcc4438",
+          "children": [
+            {
+              "text": "And so the Goddess Code Surgeon continued to roam the digital universe, a beacon of hope for all those who sought to use technology to make the world a better place."
+            }
+          ]
+        }
+      ],
+      "_version": 2
+    },
+    "related_post": [],
+    "star_rating": {},
+    "is_archived": false,
+    "seo": {
+      "meta_title": "",
+      "meta_description": "",
+      "keywords": "",
+      "enable_search_indexing": true
+    },
+    "tags": [],
+    "locale": "en-us",
+    "uid": "blt70f1d1a0d5d6edbc",
+    "ACL": {},
+    "_version": 2,
+    "_in_progress": false
+  },
   "blt2fb3492b8ec760ab": {
     "title": "The Rise of the Composable Hero: Sanchi's Journey to Becoming a Superhero for the People",
     "url": "/blog/the-rise-of-the-composable-hero-sanchi-s-journey-to-becoming-a-superhero-for-the-people",
@@ -18,45 +640,7 @@
       "parent_uid": "blt01f25dda2c9e232b",
       "_version": 1,
       "title": "Headless CMS Solution",
-      "description": "",
-      "publish_details": [
-        {
-          "environment": "blt4df36582f4ca7d26",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:34:53.931Z",
-          "version": 1
-        },
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:34:53.934Z",
-          "version": 1
-        },
-        {
-          "environment": "blt6fa07e884a44905d",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:34:53.938Z",
-          "version": 1
-        },
-        {
-          "environment": "blt4df36582f4ca7d26",
-          "locale": "en-us",
-          "time": "2023-04-05T08:34:53.943Z",
-          "version": 1
-        },
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "en-us",
-          "time": "2023-04-05T08:34:53.946Z",
-          "version": 1
-        },
-        {
-          "environment": "blt6fa07e884a44905d",
-          "locale": "en-us",
-          "time": "2023-04-05T08:34:53.950Z",
-          "version": 1
-        }
-      ]
+      "description": ""
     },
     "body": {
       "type": "doc",
@@ -186,15 +770,7 @@
     "uid": "blt2fb3492b8ec760ab",
     "ACL": {},
     "_version": 3,
-    "_in_progress": false,
-    "publish_details": [
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "en-us",
-        "time": "2023-05-05T03:18:57.416Z",
-        "version": 3
-      }
-    ]
+    "_in_progress": false
   },
   "blt9fa693221d288a75": {
     "title": "Robotics – Changing Our Lives and Future",
@@ -215,45 +791,7 @@
       "parent_uid": "blt1b7a2f3173d33737",
       "_version": 1,
       "title": "Data Mining",
-      "description": "",
-      "publish_details": [
-        {
-          "environment": "blt4df36582f4ca7d26",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:36:17.449Z",
-          "version": 1
-        },
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:36:17.454Z",
-          "version": 1
-        },
-        {
-          "environment": "blt6fa07e884a44905d",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:36:17.460Z",
-          "version": 1
-        },
-        {
-          "environment": "blt4df36582f4ca7d26",
-          "locale": "en-us",
-          "time": "2023-04-05T08:36:17.468Z",
-          "version": 1
-        },
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "en-us",
-          "time": "2023-04-05T08:36:17.473Z",
-          "version": 1
-        },
-        {
-          "environment": "blt6fa07e884a44905d",
-          "locale": "en-us",
-          "time": "2023-04-05T08:36:17.478Z",
-          "version": 1
-        }
-      ]
+      "description": ""
     },
     "related_post": [
       { "uid": "blted15dbc6d2825284", "_content_type_uid": "blog_post" },
@@ -341,28 +879,7 @@
     },
     "uid": "blt9fa693221d288a75",
     "_version": 2,
-    "_in_progress": false,
-    "publish_details": [
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "en-us",
-        "time": "2023-04-23T05:14:51.285Z",
-        
-        "version": 2
-      },
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "en-us",
-        "time": "2023-04-05T08:39:19.537Z",
-        "version": 2
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "en-us",
-        "time": "2023-04-05T08:39:19.540Z",
-        "version": 2
-      }
-    ]
+    "_in_progress": false
   },
   "blt1ed17c0323847fdc": {
     "title": "Data Mining and its significance in Business Analytics",
@@ -383,45 +900,7 @@
       "parent_uid": "blt1b7a2f3173d33737",
       "_version": 1,
       "title": "Data Mining",
-      "description": "",
-      "publish_details": [
-        {
-          "environment": "blt4df36582f4ca7d26",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:36:17.449Z",
-          "version": 1
-        },
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:36:17.454Z",
-          "version": 1
-        },
-        {
-          "environment": "blt6fa07e884a44905d",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:36:17.460Z",
-          "version": 1
-        },
-        {
-          "environment": "blt4df36582f4ca7d26",
-          "locale": "en-us",
-          "time": "2023-04-05T08:36:17.468Z",
-          "version": 1
-        },
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "en-us",
-          "time": "2023-04-05T08:36:17.473Z",
-          "version": 1
-        },
-        {
-          "environment": "blt6fa07e884a44905d",
-          "locale": "en-us",
-          "time": "2023-04-05T08:36:17.478Z",
-          "version": 1
-        }
-      ]
+      "description": ""
     },
     "related_post": [
       { "uid": "blt7ca504fb3c955cc0", "_content_type_uid": "blog_post" },
@@ -507,28 +986,7 @@
     },
     "uid": "blt1ed17c0323847fdc",
     "_version": 2,
-    "_in_progress": false,
-    "publish_details": [
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "en-us",
-        "time": "2023-04-23T05:14:51.354Z",
-        
-        "version": 2
-      },
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "en-us",
-        "time": "2023-04-05T08:39:15.677Z",
-        "version": 2
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "en-us",
-        "time": "2023-04-05T08:39:15.682Z",
-        "version": 2
-      }
-    ]
+    "_in_progress": false
   },
   "blt6321f1a63264c5ce": {
     "title": "The future of business with AI",
@@ -549,45 +1007,7 @@
       "parent_uid": "blt1b7a2f3173d33737",
       "_version": 1,
       "title": "Business With Al",
-      "description": "",
-      "publish_details": [
-        {
-          "environment": "blt4df36582f4ca7d26",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:36:27.687Z",
-          "version": 1
-        },
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:36:27.690Z",
-          "version": 1
-        },
-        {
-          "environment": "blt6fa07e884a44905d",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:36:27.693Z",
-          "version": 1
-        },
-        {
-          "environment": "blt4df36582f4ca7d26",
-          "locale": "en-us",
-          "time": "2023-04-05T08:36:27.697Z",
-          "version": 1
-        },
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "en-us",
-          "time": "2023-04-05T08:36:27.699Z",
-          "version": 1
-        },
-        {
-          "environment": "blt6fa07e884a44905d",
-          "locale": "en-us",
-          "time": "2023-04-05T08:36:27.702Z",
-          "version": 1
-        }
-      ]
+      "description": ""
     },
     "related_post": [
       { "uid": "blt9fa693221d288a75", "_content_type_uid": "blog_post" },
@@ -673,45 +1093,7 @@
     },
     "uid": "blt6321f1a63264c5ce",
     "_version": 2,
-    "_in_progress": false,
-    "publish_details": [
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "fr-fr",
-        "time": "2023-04-05T08:39:16.418Z",
-        "version": 2
-      },
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "fr-fr",
-        "time": "2023-04-05T08:39:16.421Z",
-        "version": 2
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "fr-fr",
-        "time": "2023-04-05T08:39:16.424Z",
-        "version": 2
-      },
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "en-us",
-        "time": "2023-04-05T08:39:16.428Z",
-        "version": 2
-      },
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "en-us",
-        "time": "2023-04-05T08:39:16.430Z",
-        "version": 2
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "en-us",
-        "time": "2023-04-05T08:39:16.433Z",
-        "version": 2
-      }
-    ]
+    "_in_progress": false
   },
   "blt7ca504fb3c955cc0": {
     "title": "The  modern Cloud Ecosystem",
@@ -732,46 +1114,7 @@
       "parent_uid": "blt1b7a2f3173d33737",
       "_version": 1,
       "title": "Modern Cloud Ecosystem",
-      "description": "",
-      "publish_details": [
-        {
-          "environment": "blt4df36582f4ca7d26",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:35:32.507Z",
-          "version": 1
-        },
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:35:32.513Z",
-          "version": 1
-        },
-        {
-          "environment": "blt6fa07e884a44905d",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:35:32.519Z",
-          "version": 1
-        },
-        {
-          "environment": "blt4df36582f4ca7d26",
-          "locale": "en-us",
-          "time": "2023-04-23T05:14:51.495Z",
-          
-          "version": 1
-        },
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "en-us",
-          "time": "2023-04-05T08:35:32.534Z",
-          "version": 1
-        },
-        {
-          "environment": "blt6fa07e884a44905d",
-          "locale": "en-us",
-          "time": "2023-04-05T08:35:32.539Z",
-          "version": 1
-        }
-      ]
+      "description": ""
     },
     "related_post": [
       { "uid": "blt1ed17c0323847fdc", "_content_type_uid": "blog_post" },
@@ -857,46 +1200,7 @@
     },
     "uid": "blt7ca504fb3c955cc0",
     "_version": 2,
-    "_in_progress": false,
-    "publish_details": [
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "fr-fr",
-        "time": "2023-04-05T08:39:17.483Z",
-        "version": 2
-      },
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "fr-fr",
-        "time": "2023-04-05T08:39:17.488Z",
-        "version": 2
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "fr-fr",
-        "time": "2023-04-05T08:39:17.494Z",
-        "version": 2
-      },
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "en-us",
-        "time": "2023-04-23T05:14:51.318Z",
-        
-        "version": 2
-      },
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "en-us",
-        "time": "2023-04-05T08:39:17.507Z",
-        "version": 2
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "en-us",
-        "time": "2023-04-05T08:39:17.512Z",
-        "version": 2
-      }
-    ]
+    "_in_progress": false
   },
   "blted15dbc6d2825284": {
     "title": "Traditional vs. Decoupled vs. Headless CMS – Know the Difference",
@@ -917,45 +1221,7 @@
       "parent_uid": "blt1b7a2f3173d33737",
       "_version": 1,
       "title": "Headless CMS Solution",
-      "description": "",
-      "publish_details": [
-        {
-          "environment": "blt4df36582f4ca7d26",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:35:35.047Z",
-          "version": 1
-        },
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:35:35.053Z",
-          "version": 1
-        },
-        {
-          "environment": "blt6fa07e884a44905d",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:35:35.058Z",
-          "version": 1
-        },
-        {
-          "environment": "blt4df36582f4ca7d26",
-          "locale": "en-us",
-          "time": "2023-04-05T08:35:35.065Z",
-          "version": 1
-        },
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "en-us",
-          "time": "2023-04-05T08:35:35.070Z",
-          "version": 1
-        },
-        {
-          "environment": "blt6fa07e884a44905d",
-          "locale": "en-us",
-          "time": "2023-04-05T08:35:35.075Z",
-          "version": 1
-        }
-      ]
+      "description": ""
     },
     "related_post": [
       { "uid": "blt7ca504fb3c955cc0", "_content_type_uid": "blog_post" },
@@ -1083,27 +1349,7 @@
     },
     "uid": "blted15dbc6d2825284",
     "_version": 2,
-    "_in_progress": false,
-    "publish_details": [
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "en-us",
-        "time": "2023-04-05T08:39:18.448Z",
-        "version": 2
-      },
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "en-us",
-        "time": "2023-04-05T08:39:18.451Z",
-        "version": 2
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "en-us",
-        "time": "2023-04-05T08:39:18.455Z",
-        "version": 2
-      }
-    ]
+    "_in_progress": false
   },
   "blt4a24edcc339cb7cf": {
     "title": "Headless CMS: The Solution to Top Challenges in Ecommerce",
@@ -1124,45 +1370,7 @@
       "parent_uid": "blt1b7a2f3173d33737",
       "_version": 1,
       "title": "Headless CMS Solution",
-      "description": "",
-      "publish_details": [
-        {
-          "environment": "blt4df36582f4ca7d26",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:35:35.047Z",
-          "version": 1
-        },
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:35:35.053Z",
-          "version": 1
-        },
-        {
-          "environment": "blt6fa07e884a44905d",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:35:35.058Z",
-          "version": 1
-        },
-        {
-          "environment": "blt4df36582f4ca7d26",
-          "locale": "en-us",
-          "time": "2023-04-05T08:35:35.065Z",
-          "version": 1
-        },
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "en-us",
-          "time": "2023-04-05T08:35:35.070Z",
-          "version": 1
-        },
-        {
-          "environment": "blt6fa07e884a44905d",
-          "locale": "en-us",
-          "time": "2023-04-05T08:35:35.075Z",
-          "version": 1
-        }
-      ]
+      "description": ""
     },
     "related_post": [
       { "uid": "blt1ed17c0323847fdc", "_content_type_uid": "blog_post" },
@@ -1346,27 +1554,6 @@
     },
     "uid": "blt4a24edcc339cb7cf",
     "_version": 2,
-    "_in_progress": false,
-    "publish_details": [
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "en-us",
-        "time": "2023-04-23T05:14:51.374Z",
-        
-        "version": 2
-      },
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "en-us",
-        "time": "2023-04-05T08:39:14.244Z",
-        "version": 2
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "en-us",
-        "time": "2023-04-05T08:39:14.247Z",
-        "version": 2
-      }
-    ]
+    "_in_progress": false
   }
 }

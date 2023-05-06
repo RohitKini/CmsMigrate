@@ -18,45 +18,7 @@
       "parent_uid": "blt883806c02540fbf4",
       "_version": 1,
       "title": "Company Logo",
-      "description": "",
-      "publish_details": [
-        {
-          "environment": "blt4df36582f4ca7d26",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:35:18.624Z",
-          "version": 1
-        },
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:35:18.627Z",
-          "version": 1
-        },
-        {
-          "environment": "blt6fa07e884a44905d",
-          "locale": "fr-fr",
-          "time": "2023-04-05T08:35:18.630Z",
-          "version": 1
-        },
-        {
-          "environment": "blt4df36582f4ca7d26",
-          "locale": "en-us",
-          "time": "2023-04-05T08:35:18.633Z",
-          "version": 1
-        },
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "en-us",
-          "time": "2023-04-05T08:35:18.636Z",
-          "version": 1
-        },
-        {
-          "environment": "blt6fa07e884a44905d",
-          "locale": "en-us",
-          "time": "2023-04-05T08:35:18.638Z",
-          "version": 1
-        }
-      ]
+      "description": ""
     },
     "navigation": {
       "link": [
@@ -71,12 +33,40 @@
         {
           "link": { "title": "Facebook", "href": "https://facebook.com" },
           "_metadata": { "uid": "cs9227d6ac35d9d5dc" },
-          "icon": null
+          "icon": {
+            "uid": "blt756be7acfdee0074",
+            "created_at": "2023-04-05T08:34:40.097Z",
+            "updated_at": "2023-04-05T08:34:40.097Z",
+            "content_type": "image/svg+xml",
+            "file_size": "1288",
+            "tags": [],
+            "filename": "facebook.svg",
+            "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt756be7acfdee0074/642d32a0ecd6b512b523f069/facebook.svg",
+            "ACL": [],
+            "is_dir": false,
+            "parent_uid": "blt3ec42f284e66c4d5",
+            "_version": 1,
+            "title": "facebook.svg"
+          }
         },
         {
           "link": { "title": "Twitter", "href": "https://twitter.com" },
           "_metadata": { "uid": "cs6ddec9c8b1324e2c" },
-          "icon": null
+          "icon": {
+            "uid": "blt7b1384fc901dfba1",
+            "created_at": "2023-04-05T08:34:44.761Z",
+            "updated_at": "2023-04-05T08:34:44.761Z",
+            "content_type": "image/svg+xml",
+            "file_size": "1436",
+            "tags": [],
+            "filename": "Twitter.svg",
+            "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt7b1384fc901dfba1/642d32a420e575779a0aa418/Twitter.svg",
+            "ACL": [],
+            "is_dir": false,
+            "parent_uid": "blt3ec42f284e66c4d5",
+            "_version": 1,
+            "title": "Twitter.svg"
+          }
         },
         {
           "link": {
@@ -84,7 +74,22 @@
             "href": "https://www.instagram.com/"
           },
           "_metadata": { "uid": "csa0ccbd77c380b908" },
-          "icon": null
+          "icon": {
+            "uid": "bltf59010e6b7953149",
+            "created_at": "2023-04-05T08:34:38.104Z",
+            "updated_at": "2023-04-05T08:34:38.104Z",
+            "content_type": "image/svg+xml",
+            "file_size": "806",
+            "tags": [],
+            "filename": "Instagram.svg",
+            "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltf59010e6b7953149/642d329e9aae77131210f191/Instagram.svg",
+            "ACL": [],
+            "is_dir": false,
+            "parent_uid": "blt3ec42f284e66c4d5",
+            "_version": 1,
+            "title": "Instagram.svg",
+            "description": ""
+          }
         }
       ]
     },
@@ -95,40 +100,17 @@
           "type": "p",
           "attrs": {},
           "children": [
-            { "text": "Copyright © 2022. LogoIpsum. All rights reserved." }
+            { "text": "Copyright © 2023. LogoIpsum. All rights reserved." }
           ],
           "uid": "ba38f69995c844daaae17f966ba84cdf"
         }
       ],
       "type": "doc",
       "uid": "5b2ad7a70a954458b6fda3e6ca5bc720",
-      "_version": 1
+      "_version": 3
     },
     "uid": "blt6ec07ecd4c76e276",
-    "_version": 1,
-    "_in_progress": false,
-    "publish_details": [
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "en-us",
-        "time": "2023-04-05T08:39:13.208Z",
-        
-        "version": 1
-      },
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "en-us",
-        "time": "2023-04-05T08:39:13.213Z",
-        
-        "version": 1
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "en-us",
-        "time": "2023-04-05T08:39:13.216Z",
-        
-        "version": 1
-      }
-    ]
+    "_version": 3,
+    "_in_progress": false
   }
 }

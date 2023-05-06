@@ -1,4 +1,233 @@
 {
+  "bltb6e9ee3a6692f25e": {
+    "title": "Charisma Defender",
+    "url": "/composable-heroes/charisma-defender",
+    "image": {
+      "uid": "blt50b932d7af02aa5c",
+      "created_at": "2023-05-05T12:52:44.138Z",
+      "updated_at": "2023-05-05T12:52:44.138Z",
+      "created_by": "bltf3f3903cb72e702e",
+      "updated_by": "bltf3f3903cb72e702e",
+      "content_type": "image/webp",
+      "file_size": "90462",
+      "tags": [],
+      "filename": "Lloyd.webp",
+      "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt50b932d7af02aa5c/6454fc1cd93f9cad41bad7c2/Lloyd.webp",
+      "ACL": [],
+      "is_dir": false,
+      "parent_uid": "bltc31c687135a4437e",
+      "_version": 1,
+      "title": "Lloyd.webp"
+    },
+    "description": {
+      "type": "doc",
+      "attrs": {},
+      "uid": "6495949794f747b7933b7d7c88bd6619",
+      "children": [
+        {
+          "type": "p",
+          "uid": "506acf7d1cf245dc99f69a2ab4ed222e",
+          "attrs": {},
+          "children": [
+            { "text": "" },
+            {
+              "uid": "5e730ab37b634b0bac18b5443c760527",
+              "type": "span",
+              "attrs": {},
+              "children": [
+                {
+                  "text": "Lloyd was on a business trip when he stumbled upon a gang of hackers trying to take down a government site. He used his sales talents to distract them and called for backup. They were able to apprehend the criminals, but Lloyd was forever changed by the experience. He suddenly had superhuman charisma and persuasiveness, making him the ultimate secret agent for selling good technology and saving the world."
+                }
+              ]
+            },
+            { "text": "" }
+          ]
+        }
+      ],
+      "_version": 11
+    },
+    "powers": "Super strength",
+    "contact_info": { "phone": "555-1212", "email": "chrisma@defender.com" },
+    "home_world": [
+      { "uid": "bltdafddcd329933054", "_content_type_uid": "home_world" }
+    ],
+    "seo": {
+      "meta_title": "",
+      "meta_description": "",
+      "keywords": "",
+      "enable_search_indexing": true
+    },
+    "tags": [],
+    "locale": "en-us",
+    "uid": "bltb6e9ee3a6692f25e",
+    "ACL": {},
+    "_version": 11,
+    "_in_progress": false
+  },
+  "blt4fee81a6e4da75fd": {
+    "title": "MACH Speeder",
+    "url": "/composable-heroes/mach-speeder",
+    "image": {
+      "uid": "bltcc634eba7c14ab67",
+      "created_at": "2023-05-05T10:14:38.233Z",
+      "updated_at": "2023-05-05T11:04:51.824Z",
+      "created_by": "blt00504d37d65e7e5d",
+      "updated_by": "bltf3f3903cb72e702e",
+      "content_type": "image/webp",
+      "file_size": "77038",
+      "tags": [],
+      "filename": "Hugo_Miguel_da_Silva_Gameiro_Lebre_Original_file_(2).webp",
+      "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltcc634eba7c14ab67/6454d70e326bc668d982132b/Hugo_Miguel_da_Silva_Gameiro_Lebre_Original_file_(2).webp",
+      "ACL": [],
+      "is_dir": false,
+      "parent_uid": null,
+      "_version": 2,
+      "title": "Hugo"
+    },
+    "description": {
+      "type": "doc",
+      "attrs": {},
+      "uid": "4bc8c582742446c38311da6a376e4c5e",
+      "children": [
+        {
+          "uid": "3f03a300c9624e99b3b3faae966f4e01",
+          "type": "p",
+          "attrs": {},
+          "children": [
+            {
+              "text": "In the world of superheroes, speed is a valuable asset. MACH Speeder is a superhero with the ability to move at incredible speeds. MACH Speeder is a character I developed for Contentstack, and I'm excited to share more about this super-fast hero."
+            }
+          ]
+        },
+        {
+          "uid": "722472d4cc7a4b219ccb81132aaff923",
+          "type": "p",
+          "attrs": {},
+          "children": [
+            {
+              "text": "MACH Speeder's real name is Mark Chambers. He was a former Olympic sprinter who discovered that he had the ability to move at incredible speeds after being exposed to a strange energy source during a race. Now, he uses his powers to fight crime and protect the innocent."
+            }
+          ]
+        },
+        {
+          "uid": "83017e9b852b4ce180ac5278270a3cd6",
+          "type": "p",
+          "attrs": {},
+          "children": [
+            {
+              "text": "MACH Speeder's powers allow him to move at incredible speeds, making him one of the fastest superheroes in existence. He can run at speeds of up to Mach 5, which is over 3,800 miles per hour. This means that he can move across entire cities in seconds, making him incredibly difficult to catch."
+            }
+          ]
+        },
+        {
+          "uid": "5e6aef0fa75542fb9e1bc26503ee88f8",
+          "type": "p",
+          "attrs": {},
+          "children": [
+            {
+              "text": "In addition to his incredible speed, MACH Speeder also possesses enhanced agility and reflexes. He is able to dodge attacks and move through tight spaces with ease, making him a formidable opponent in combat. His speed also allows him to generate powerful shockwaves when he punches or kicks, making his attacks incredibly powerful."
+            }
+          ]
+        },
+        {
+          "uid": "20a1cb10117c471ea2938dde72b8ec1b",
+          "type": "p",
+          "attrs": {},
+          "children": [
+            {
+              "text": "Despite his incredible powers, MACH Speeder is still human, and he faces many of the same challenges that other superheroes do. He struggles with balancing his personal life with his superhero duties and often has to deal with villains who are just as fast as he is. However, he is determined to use his powers for good and to protect those who cannot protect themselves."
+            }
+          ]
+        },
+        {
+          "uid": "12e2ce7dc86d40d88ef1278f9623fbc8",
+          "type": "p",
+          "attrs": {},
+          "children": [
+            {
+              "text": "MACH Speeder is a unique and exciting addition to the world of superheroes. His incredible speed and agility make him a formidable hero, and his determination to do what's right makes him a role model for all of us. I'm excited to see where his adventures take him next."
+            }
+          ]
+        }
+      ],
+      "_version": 3
+    },
+    "powers": "Super Speed",
+    "contact_info": { "phone": "", "email": "" },
+    "home_world": [],
+    "seo": {
+      "meta_title": "",
+      "meta_description": "",
+      "keywords": "",
+      "enable_search_indexing": true
+    },
+    "tags": [],
+    "locale": "en-us",
+    "uid": "blt4fee81a6e4da75fd",
+    "ACL": {},
+    "_version": 3,
+    "_in_progress": false
+  },
+  "blted5dc2b72640e34e": {
+    "title": "THE CORPORATE MENACE",
+    "url": "/composable-heroes/the-corporate-menace",
+    "image": {
+      "uid": "blt97886244ad9b0b7e",
+      "created_at": "2023-05-05T10:04:22.312Z",
+      "updated_at": "2023-05-05T11:05:53.281Z",
+      "created_by": "blt679daff05e294986",
+      "updated_by": "bltf3f3903cb72e702e",
+      "content_type": "image/webp",
+      "file_size": "103258",
+      "tags": [],
+      "filename": "Arda_Akbel_Original_file.jpg.webp",
+      "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt97886244ad9b0b7e/6454d4a64210d011fbbe41ea/Arda_Akbel_Original_file.jpg.webp",
+      "ACL": [],
+      "is_dir": false,
+      "parent_uid": "bltc31c687135a4437e",
+      "_version": 2,
+      "title": "Arda"
+    },
+    "description": {
+      "type": "doc",
+      "attrs": {},
+      "uid": "da77bb80949344ecbc67b99907fd2a89",
+      "children": [
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "b162319640dc44a59bb3134d0453e8b5",
+          "children": [
+            {
+              "text": "Arda Akbel was serving their masters at Contentstack when they accidentally spilled a drink on the CEO's new suit jacket. In a fit of rage, the CEO fired Arda on the spot. Vowing revenge, Arda used their customer service skills to hack into the company's system and destroy all its data. With this newfound power, Arda became a mad supervillain intent on taking down corporate overlords"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "attrs": {},
+          "uid": "316e1770a47c42aba7e493c2bfad6426",
+          "children": [{ "text": "everywhere." }]
+        }
+      ],
+      "_version": 1
+    },
+    "powers": "Power of the Gods",
+    "contact_info": { "phone": "", "email": "" },
+    "home_world": [],
+    "seo": {
+      "meta_title": "",
+      "meta_description": "",
+      "keywords": "",
+      "enable_search_indexing": true
+    },
+    "tags": [],
+    "locale": "en-us",
+    "uid": "blted5dc2b72640e34e",
+    "ACL": {},
+    "_version": 1,
+    "_in_progress": false
+  },
   "blt6e4f92df1e67561a": {
     "title": "ROYAL SANCTUARY",
     "url": "/composable-heroes/royal-sanctuary",
@@ -6,6 +235,8 @@
       "uid": "blt82bb74344a274a31",
       "created_at": "2023-05-04T23:55:05.170Z",
       "updated_at": "2023-05-05T02:18:45.574Z",
+      "created_by": "bltf3f3903cb72e702e",
+      "updated_by": "bltf3f3903cb72e702e",
       "content_type": "image/webp",
       "file_size": "161996",
       "tags": [],
@@ -15,28 +246,7 @@
       "is_dir": false,
       "parent_uid": "bltc31c687135a4437e",
       "_version": 4,
-      "title": "Jaime",
-      "publish_details": [
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "en-us",
-          "time": "2023-05-05T02:18:50.361Z",
-
-          "version": 4
-        },
-        {
-          "environment": "blt4df36582f4ca7d26",
-          "locale": "en-us",
-          "time": "2023-05-05T08:23:57.554Z",
-          "version": 4
-        },
-        {
-          "environment": "blt6fa07e884a44905d",
-          "locale": "en-us",
-          "time": "2023-05-05T08:23:57.574Z",
-          "version": 4
-        }
-      ]
+      "title": "Jaime"
     },
     "description": {
       "type": "doc",
@@ -65,7 +275,7 @@
       ],
       "_version": 9
     },
-    "contact_info": { "phone": "", "email": "" },
+    "contact_info": { "phone": "555-555-5555", "email": "jaime@email.com" },
     "home_world": [],
     "seo": {
       "meta_title": "",
@@ -79,27 +289,7 @@
     "ACL": {},
     "_version": 9,
     "_in_progress": false,
-    "powers": "Telekinesis",
-    "publish_details": [
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "en-us",
-        "time": "2023-05-05T08:23:57.634Z",
-        "version": 9
-      },
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "en-us",
-        "time": "2023-05-05T08:23:57.628Z",
-        "version": 9
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "en-us",
-        "time": "2023-05-05T08:23:57.639Z",
-        "version": 9
-      }
-    ]
+    "powers": "Telekinesis"
   },
   "blt6f0f194a7cd14290": {
     "title": "THUNDERBOLT SENTINEL",
@@ -108,7 +298,8 @@
       "uid": "blt1d47369911d75dca",
       "created_at": "2023-05-05T00:22:56.741Z",
       "updated_at": "2023-05-05T03:07:01.035Z",
-      
+      "created_by": "bltf3f3903cb72e702e",
+      "updated_by": "bltf3f3903cb72e702e",
       "content_type": "image/webp",
       "file_size": "86404",
       "tags": [],
@@ -118,16 +309,7 @@
       "is_dir": false,
       "parent_uid": "bltc31c687135a4437e",
       "_version": 2,
-      "title": "Jorge",
-      "publish_details": [
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "en-us",
-          "time": "2023-05-05T03:07:04.428Z",
-
-          "version": 1
-        }
-      ]
+      "title": "Jorge"
     },
     "description": {
       "type": "doc",
@@ -156,7 +338,7 @@
       ],
       "_version": 3
     },
-    "contact_info": { "phone": "", "email": "" },
+    "contact_info": { "phone": "555-555-5555", "email": "jorge@email.com" },
     "home_world": [
       { "uid": "bltdafddcd329933054", "_content_type_uid": "home_world" }
     ],
@@ -172,28 +354,7 @@
     "ACL": {},
     "_version": 3,
     "_in_progress": false,
-    "powers": "Power of the Gods",
-    "publish_details": [
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "en-us",
-        "time": "2023-05-05T02:10:48.664Z",
-
-        "version": 3
-      },
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:43.927Z",
-        "version": 3
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:43.966Z",
-        "version": 3
-      }
-    ]
+    "powers": "Power of the Gods"
   },
   "blt865df6ac141bb41c": {
     "title": "DEMO ALMIGHTY",
@@ -202,7 +363,8 @@
       "uid": "blta8220a383de1c3e5",
       "created_at": "2023-05-04T17:31:54.856Z",
       "updated_at": "2023-05-05T03:07:48.846Z",
-      
+      "created_by": "bltf3f3903cb72e702e",
+      "updated_by": "bltf3f3903cb72e702e",
       "content_type": "image/webp",
       "file_size": "87596",
       "tags": [],
@@ -212,30 +374,7 @@
       "is_dir": false,
       "parent_uid": "bltc31c687135a4437e",
       "_version": 3,
-      "title": "Robert",
-      "publish_details": [
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "en-us",
-          "time": "2023-05-05T03:07:52.079Z",
-
-          "version": 2
-        },
-        {
-          "environment": "blt6fa07e884a44905d",
-          "locale": "en-us",
-          "time": "2023-05-04T22:45:54.069Z",
-
-          "version": 1
-        },
-        {
-          "environment": "blt4df36582f4ca7d26",
-          "locale": "en-us",
-          "time": "2023-05-04T22:45:54.075Z",
-
-          "version": 1
-        }
-      ]
+      "title": "Robert"
     },
     "description": {
       "type": "doc",
@@ -255,7 +394,7 @@
       ],
       "_version": 10
     },
-    "contact_info": { "phone": "", "email": "" },
+    "contact_info": { "phone": "555-5555-5555", "email": "robert@email.com" },
     "home_world": [
       { "uid": "bltdafddcd329933054", "_content_type_uid": "home_world" }
     ],
@@ -271,28 +410,7 @@
     "ACL": {},
     "_version": 10,
     "_in_progress": false,
-    "powers": "Power of the Gods",
-    "publish_details": [
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "en-us",
-        "time": "2023-05-05T02:10:48.719Z",
-
-        "version": 10
-      },
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:43.643Z",
-        "version": 10
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:43.651Z",
-        "version": 10
-      }
-    ]
+    "powers": "Power of the Gods"
   },
   "blt8740321d20beb200": {
     "title": "GODDESS CODE SURGER",
@@ -301,7 +419,8 @@
       "uid": "bltf826392405a59a95",
       "created_at": "2023-05-05T02:05:02.420Z",
       "updated_at": "2023-05-05T03:08:06.143Z",
-      
+      "created_by": "bltf3f3903cb72e702e",
+      "updated_by": "bltf3f3903cb72e702e",
       "content_type": "image/webp",
       "file_size": "103844",
       "tags": [],
@@ -311,16 +430,7 @@
       "is_dir": false,
       "parent_uid": "bltc31c687135a4437e",
       "_version": 2,
-      "title": "Ruprani",
-      "publish_details": [
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "en-us",
-          "time": "2023-05-05T03:08:09.491Z",
-
-          "version": 1
-        }
-      ]
+      "title": "Ruprani"
     },
     "description": {
       "type": "doc",
@@ -365,28 +475,7 @@
     "uid": "blt8740321d20beb200",
     "ACL": {},
     "_version": 1,
-    "_in_progress": false,
-    "publish_details": [
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "en-us",
-        "time": "2023-05-05T02:10:48.733Z",
-
-        "version": 1
-      },
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "en-us",
-        "time": "2023-05-05T08:20:41.495Z",
-        "version": 1
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "en-us",
-        "time": "2023-05-05T08:20:41.521Z",
-        "version": 1
-      }
-    ]
+    "_in_progress": false
   },
   "blt6c3359480d31869b": {
     "title": "VIRUS VINDICATOR",
@@ -395,7 +484,8 @@
       "uid": "blte250034f9973b51c",
       "created_at": "2023-05-05T01:55:43.354Z",
       "updated_at": "2023-05-05T03:09:49.850Z",
-      
+      "created_by": "bltf3f3903cb72e702e",
+      "updated_by": "bltf3f3903cb72e702e",
       "content_type": "image/webp",
       "file_size": "88286",
       "tags": [],
@@ -405,16 +495,7 @@
       "is_dir": false,
       "parent_uid": "bltc31c687135a4437e",
       "_version": 2,
-      "title": "Vishnu",
-      "publish_details": [
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "en-us",
-          "time": "2023-05-05T03:09:52.423Z",
-
-          "version": 1
-        }
-      ]
+      "title": "Vishnu"
     },
     "description": {
       "type": "doc",
@@ -459,28 +540,7 @@
     "uid": "blt6c3359480d31869b",
     "ACL": {},
     "_version": 1,
-    "_in_progress": false,
-    "publish_details": [
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "en-us",
-        "time": "2023-05-05T02:13:53.261Z",
-
-        "version": 1
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "en-us",
-        "time": "2023-05-05T08:20:41.563Z",
-        "version": 1
-      },
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "en-us",
-        "time": "2023-05-05T08:20:41.567Z",
-        "version": 1
-      }
-    ]
+    "_in_progress": false
   },
   "bltef97887b9b5a9168": {
     "title": "THE LIGHTNING EXCAVATOR",
@@ -489,7 +549,8 @@
       "uid": "blt693d31d6cc42ebee",
       "created_at": "2023-05-05T01:53:26.971Z",
       "updated_at": "2023-05-05T03:06:37.397Z",
-      
+      "created_by": "bltf3f3903cb72e702e",
+      "updated_by": "bltf3f3903cb72e702e",
       "content_type": "image/webp",
       "file_size": "103884",
       "tags": [],
@@ -499,16 +560,7 @@
       "is_dir": false,
       "parent_uid": "bltc31c687135a4437e",
       "_version": 2,
-      "title": "Gautom",
-      "publish_details": [
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "en-us",
-          "time": "2023-05-05T03:06:40.701Z",
-
-          "version": 1
-        }
-      ]
+      "title": "Gautom"
     },
     "description": {
       "type": "doc",
@@ -553,28 +605,7 @@
     "uid": "bltef97887b9b5a9168",
     "ACL": {},
     "_version": 3,
-    "_in_progress": false,
-    "publish_details": [
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "en-us",
-        "time": "2023-05-05T02:10:48.791Z",
-
-        "version": 3
-      },
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:44.078Z",
-        "version": 3
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:44.110Z",
-        "version": 3
-      }
-    ]
+    "_in_progress": false
   },
   "blt3d8b850f75c86595": {
     "title": "THUNDERMONARCH",
@@ -583,7 +614,8 @@
       "uid": "bltbc9f1209087fb417",
       "created_at": "2023-05-05T01:48:12.028Z",
       "updated_at": "2023-05-05T03:07:14.294Z",
-      
+      "created_by": "bltf3f3903cb72e702e",
+      "updated_by": "bltf3f3903cb72e702e",
       "content_type": "image/webp",
       "file_size": "85192",
       "tags": [],
@@ -593,16 +625,7 @@
       "is_dir": false,
       "parent_uid": "bltc31c687135a4437e",
       "_version": 2,
-      "title": "Srushti",
-      "publish_details": [
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "en-us",
-          "time": "2023-05-05T03:07:17.705Z",
-
-          "version": 1
-        }
-      ]
+      "title": "Srushti"
     },
     "description": {
       "type": "doc",
@@ -645,28 +668,7 @@
     "uid": "blt3d8b850f75c86595",
     "ACL": {},
     "_version": 1,
-    "_in_progress": false,
-    "publish_details": [
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "en-us",
-        "time": "2023-05-05T02:10:48.808Z",
-
-        "version": 1
-      },
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:44.026Z",
-        "version": 1
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:44.061Z",
-        "version": 1
-      }
-    ]
+    "_in_progress": false
   },
   "bltb1f2963e7d0a36b4": {
     "title": "THUNDER ARMOR",
@@ -675,7 +677,8 @@
       "uid": "bltcb10e9586666fe29",
       "created_at": "2023-05-05T01:32:18.330Z",
       "updated_at": "2023-05-05T03:08:27.308Z",
-      
+      "created_by": "bltf3f3903cb72e702e",
+      "updated_by": "bltf3f3903cb72e702e",
       "content_type": "image/webp",
       "file_size": "163402",
       "tags": [],
@@ -685,16 +688,7 @@
       "is_dir": false,
       "parent_uid": "bltc31c687135a4437e",
       "_version": 2,
-      "title": "Sanchi",
-      "publish_details": [
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "en-us",
-          "time": "2023-05-05T03:08:29.703Z",
-
-          "version": 1
-        }
-      ]
+      "title": "Sanchi"
     },
     "description": {
       "type": "doc",
@@ -737,28 +731,7 @@
     "uid": "bltb1f2963e7d0a36b4",
     "ACL": {},
     "_version": 1,
-    "_in_progress": false,
-    "publish_details": [
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "en-us",
-        "time": "2023-05-05T02:10:48.835Z",
-
-        "version": 1
-      },
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:44.114Z",
-        "version": 1
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:44.123Z",
-        "version": 1
-      }
-    ]
+    "_in_progress": false
   },
   "bltc2f983e16a9578b6": {
     "title": "THE TECHNOMANCER",
@@ -767,7 +740,8 @@
       "uid": "blt7252a008ac57b2b1",
       "created_at": "2023-05-05T00:36:38.254Z",
       "updated_at": "2023-05-05T03:09:04.124Z",
-      
+      "created_by": "bltf3f3903cb72e702e",
+      "updated_by": "bltf3f3903cb72e702e",
       "content_type": "image/webp",
       "file_size": "81660",
       "tags": [],
@@ -777,16 +751,7 @@
       "is_dir": false,
       "parent_uid": "bltc31c687135a4437e",
       "_version": 2,
-      "title": "Sreenesh",
-      "publish_details": [
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "en-us",
-          "time": "2023-05-05T03:09:06.851Z",
-
-          "version": 1
-        }
-      ]
+      "title": "Sreenesh"
     },
     "description": {
       "type": "doc",
@@ -831,28 +796,7 @@
     "ACL": {},
     "_version": 2,
     "_in_progress": false,
-    "powers": "Telekinesis",
-    "publish_details": [
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "en-us",
-        "time": "2023-05-05T02:10:48.858Z",
-
-        "version": 2
-      },
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:43.804Z",
-        "version": 2
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:43.817Z",
-        "version": 2
-      }
-    ]
+    "powers": "Telekinesis"
   },
   "blt494e81c451a7f48b": {
     "title": "CYBER SAVIOR",
@@ -861,7 +805,8 @@
       "uid": "bltd2ca1ba2c0224c5b",
       "created_at": "2023-05-05T00:46:44.274Z",
       "updated_at": "2023-05-05T02:19:36.989Z",
-      
+      "created_by": "bltf3f3903cb72e702e",
+      "updated_by": "bltf3f3903cb72e702e",
       "content_type": "image/webp",
       "file_size": "78660",
       "tags": [],
@@ -871,16 +816,7 @@
       "is_dir": false,
       "parent_uid": "bltc31c687135a4437e",
       "_version": 2,
-      "title": "Zamir",
-      "publish_details": [
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "en-us",
-          "time": "2023-05-05T02:19:40.645Z",
-
-          "version": 2
-        }
-      ]
+      "title": "Zamir"
     },
     "description": {
       "type": "doc",
@@ -925,28 +861,7 @@
     "ACL": {},
     "_version": 2,
     "_in_progress": false,
-    "powers": "Super strength",
-    "publish_details": [
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "en-us",
-        "time": "2023-05-05T02:10:48.870Z",
-
-        "version": 2
-      },
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:43.757Z",
-        "version": 2
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:43.772Z",
-        "version": 2
-      }
-    ]
+    "powers": "Super strength"
   },
   "blta30da29abea10f4d": {
     "title": "LIGHTNING BOLT",
@@ -955,7 +870,8 @@
       "uid": "blt115d65ddf1ce6ca4",
       "created_at": "2023-05-05T00:12:40.739Z",
       "updated_at": "2023-05-05T03:07:31.370Z",
-      
+      "created_by": "bltf3f3903cb72e702e",
+      "updated_by": "bltf3f3903cb72e702e",
       "content_type": "image/webp",
       "file_size": "69198",
       "tags": [],
@@ -965,16 +881,7 @@
       "is_dir": false,
       "parent_uid": "bltc31c687135a4437e",
       "_version": 3,
-      "title": "Nick",
-      "publish_details": [
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "en-us",
-          "time": "2023-05-05T03:07:34.362Z",
-
-          "version": 2
-        }
-      ]
+      "title": "Nick"
     },
     "description": {
       "type": "doc",
@@ -1019,28 +926,7 @@
     "ACL": {},
     "_version": 4,
     "_in_progress": false,
-    "powers": "Persuasion",
-    "publish_details": [
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "en-us",
-        "time": "2023-05-05T02:10:48.914Z",
-
-        "version": 4
-      },
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:43.972Z",
-        "version": 4
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:43.999Z",
-        "version": 4
-      }
-    ]
+    "powers": "Persuasion"
   },
   "blt7aca5bde2115a200": {
     "title": "CYBER SURGE",
@@ -1049,7 +935,8 @@
       "uid": "blt4c5a82c2a103c75c",
       "created_at": "2023-05-04T23:39:38.477Z",
       "updated_at": "2023-05-05T03:05:54.427Z",
-      
+      "created_by": "bltf3f3903cb72e702e",
+      "updated_by": "bltf3f3903cb72e702e",
       "content_type": "image/webp",
       "file_size": "106566",
       "tags": [],
@@ -1059,16 +946,7 @@
       "is_dir": false,
       "parent_uid": "bltc31c687135a4437e",
       "_version": 2,
-      "title": "Christine",
-      "publish_details": [
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "en-us",
-          "time": "2023-05-05T03:05:57.443Z",
-
-          "version": 1
-        }
-      ]
+      "title": "Christine"
     },
     "description": {
       "type": "doc",
@@ -1097,7 +975,7 @@
       ],
       "_version": 3
     },
-    "contact_info": { "phone": "", "email": "" },
+    "contact_info": { "phone": "555-555-5555", "email": "christine@email.com" },
     "home_world": [
       { "uid": "bltdafddcd329933054", "_content_type_uid": "home_world" }
     ],
@@ -1113,28 +991,7 @@
     "ACL": {},
     "_version": 3,
     "_in_progress": false,
-    "powers": "Super strength",
-    "publish_details": [
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "en-us",
-        "time": "2023-05-05T02:12:08.216Z",
-
-        "version": 3
-      },
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:43.681Z",
-        "version": 3
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:43.699Z",
-        "version": 3
-      }
-    ]
+    "powers": "Super strength"
   },
   "blt41504fd22cb9ea2e": {
     "title": "ELEMENTAL ARCHITECT",
@@ -1143,7 +1000,8 @@
       "uid": "bltb2a9066d2881281f",
       "created_at": "2023-05-05T00:25:30.371Z",
       "updated_at": "2023-05-05T03:06:13.603Z",
-      
+      "created_by": "bltf3f3903cb72e702e",
+      "updated_by": "bltf3f3903cb72e702e",
       "content_type": "image/webp",
       "file_size": "180448",
       "tags": [],
@@ -1153,16 +1011,7 @@
       "is_dir": false,
       "parent_uid": "bltc31c687135a4437e",
       "_version": 2,
-      "title": "Dipak",
-      "publish_details": [
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "en-us",
-          "time": "2023-05-05T03:06:17.682Z",
-
-          "version": 1
-        }
-      ]
+      "title": "Dipak"
     },
     "description": {
       "type": "doc",
@@ -1191,7 +1040,7 @@
       ],
       "_version": 2
     },
-    "contact_info": { "phone": "", "email": "" },
+    "contact_info": { "phone": "555-555-5555", "email": "dipak@email.com" },
     "home_world": [
       { "uid": "bltdafddcd329933054", "_content_type_uid": "home_world" }
     ],
@@ -1207,28 +1056,7 @@
     "ACL": {},
     "_version": 2,
     "_in_progress": false,
-    "powers": "Super Speed",
-    "publish_details": [
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "en-us",
-        "time": "2023-05-05T02:12:08.268Z",
-
-        "version": 2
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:43.907Z",
-        "version": 2
-      },
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:43.981Z",
-        "version": 2
-      }
-    ]
+    "powers": "Super Speed"
   },
   "blt3e28cfdfdb89b5c5": {
     "title": "THE GALACTIC HACKER",
@@ -1237,7 +1065,8 @@
       "uid": "blt3880a7214584e383",
       "created_at": "2023-05-05T00:32:13.244Z",
       "updated_at": "2023-05-05T03:09:35.314Z",
-      
+      "created_by": "bltf3f3903cb72e702e",
+      "updated_by": "bltf3f3903cb72e702e",
       "content_type": "image/webp",
       "file_size": "58838",
       "tags": [],
@@ -1247,16 +1076,7 @@
       "is_dir": false,
       "parent_uid": "bltc31c687135a4437e",
       "_version": 2,
-      "title": "Victor",
-      "publish_details": [
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "en-us",
-          "time": "2023-05-05T03:09:37.965Z",
-
-          "version": 1
-        }
-      ]
+      "title": "Victor"
     },
     "description": {
       "type": "doc",
@@ -1299,28 +1119,7 @@
     "ACL": {},
     "_version": 2,
     "_in_progress": false,
-    "powers": "Laser vision",
-    "publish_details": [
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "en-us",
-        "time": "2023-05-05T02:12:08.278Z",
-
-        "version": 2
-      },
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:43.841Z",
-        "version": 2
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:43.876Z",
-        "version": 2
-      }
-    ]
+    "powers": "Laser vision"
   },
   "bltb11c359297fc8828": {
     "title": "GOLDEN BASKET",
@@ -1329,7 +1128,8 @@
       "uid": "bltee9a559a74caae04",
       "created_at": "2023-05-04T09:21:10.958Z",
       "updated_at": "2023-05-05T03:08:45.368Z",
-      
+      "created_by": "bltf3f3903cb72e702e",
+      "updated_by": "bltf3f3903cb72e702e",
       "content_type": "image/webp",
       "file_size": "124608",
       "tags": [],
@@ -1339,30 +1139,7 @@
       "is_dir": false,
       "parent_uid": "bltc31c687135a4437e",
       "_version": 2,
-      "title": "Toasty",
-      "publish_details": [
-        {
-          "environment": "blt5d293fa38e3a0da8",
-          "locale": "en-us",
-          "time": "2023-05-05T03:08:48.240Z",
-
-          "version": 1
-        },
-        {
-          "environment": "blt4df36582f4ca7d26",
-          "locale": "en-us",
-          "time": "2023-05-04T12:11:38.451Z",
-
-          "version": 1
-        },
-        {
-          "environment": "blt6fa07e884a44905d",
-          "locale": "en-us",
-          "time": "2023-05-04T12:11:38.457Z",
-
-          "version": 1
-        }
-      ]
+      "title": "Toasty"
     },
     "description": {
       "type": "doc",
@@ -1382,7 +1159,7 @@
       ],
       "_version": 8
     },
-    "contact_info": { "phone": "", "email": "" },
+    "contact_info": { "phone": "555-555-5555", "email": "toasty@email.com" },
     "home_world": [
       { "uid": "bltdafddcd329933054", "_content_type_uid": "home_world" }
     ],
@@ -1398,26 +1175,6 @@
     "ACL": {},
     "_version": 8,
     "_in_progress": false,
-    "powers": "Running Fast",
-    "publish_details": [
-      {
-        "environment": "blt5d293fa38e3a0da8",
-        "locale": "en-us",
-        "time": "2023-05-05T02:12:08.299Z",
-        "version": 8
-      },
-      {
-        "environment": "blt4df36582f4ca7d26",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:43.662Z",
-        "version": 8
-      },
-      {
-        "environment": "blt6fa07e884a44905d",
-        "locale": "en-us",
-        "time": "2023-05-05T07:34:43.619Z",
-        "version": 8
-      }
-    ]
+    "powers": "Running Fast"
   }
 }
